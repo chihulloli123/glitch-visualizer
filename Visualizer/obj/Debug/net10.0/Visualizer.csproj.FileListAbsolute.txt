@@ -1,0 +1,15 @@
+/workspaces/glitch-visualizer/Visualizer/bin/Debug/net10.0/Visualizer
+/workspaces/glitch-visualizer/Visualizer/bin/Debug/net10.0/Visualizer.deps.json
+/workspaces/glitch-visualizer/Visualizer/bin/Debug/net10.0/Visualizer.runtimeconfig.json
+/workspaces/glitch-visualizer/Visualizer/bin/Debug/net10.0/Visualizer.dll
+/workspaces/glitch-visualizer/Visualizer/bin/Debug/net10.0/Visualizer.pdb
+/workspaces/glitch-visualizer/Visualizer/obj/Debug/net10.0/Visualizer.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/glitch-visualizer/Visualizer/obj/Debug/net10.0/Visualizer.AssemblyInfoInputs.cache
+/workspaces/glitch-visualizer/Visualizer/obj/Debug/net10.0/Visualizer.AssemblyInfo.cs
+/workspaces/glitch-visualizer/Visualizer/obj/Debug/net10.0/Visualizer.csproj.CoreCompileInputs.cache
+/workspaces/glitch-visualizer/Visualizer/obj/Debug/net10.0/Visualizer.sourcelink.json
+/workspaces/glitch-visualizer/Visualizer/obj/Debug/net10.0/Visualizer.dll
+/workspaces/glitch-visualizer/Visualizer/obj/Debug/net10.0/refint/Visualizer.dll
+/workspaces/glitch-visualizer/Visualizer/obj/Debug/net10.0/Visualizer.pdb
+/workspaces/glitch-visualizer/Visualizer/obj/Debug/net10.0/Visualizer.genruntimeconfig.cache
+/workspaces/glitch-visualizer/Visualizer/obj/Debug/net10.0/ref/Visualizer.dll
